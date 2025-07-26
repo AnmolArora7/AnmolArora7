@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<!--
-**AnmolArora7/AnmolArora7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">This is Anmol Arora 🔥🖤</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h3 align="left">Who I Am? Well, a curious bright mind who is constantly exploring physics and unveiling the truths of the universe ✨</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="1000" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXo3bTFjamo3bTRhMGZsb3J6ajdrbWw2dG9ucG56MHRpZWphMHk0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3B1aHJyajduMnJ1aWpqb2l3ejJhM202NG9uaHg3M2hvazJmNG4wOSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xTk9ZYl3z6MYq6XmXm/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFveGgwenJ2ZHdhcDJkN2hweGl3bHJpcXEwb3dnM3l3ZXlhZ3NjaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hkqefnFjn2MWVl6xvq/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgzYjNuYXVqMHdkYTdlYzh4azFpMXNwbWVwMWtzY2NidGtyaWhtNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AbYxDs20DECQw/giphy.gif"  />
+</div>
+
+###

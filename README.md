@@ -36,11 +36,6 @@
 
 ###
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
@@ -55,9 +50,15 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFveGgwenJ2ZHdhcDJkN2hweGl3bHJpcXEwb3dnM3l3ZXlhZ3NjaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hkqefnFjn2MWVl6xvq/giphy.gif"  />
-</div>
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anmolarora7/Anmolarora7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anmolarora7/Anmolarora7/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anmolarora7/Anmolarora7/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ###
 
@@ -65,4 +66,9 @@
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgzYjNuYXVqMHdkYTdlYzh4azFpMXNwbWVwMWtzY2NidGtyaWhtNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AbYxDs20DECQw/giphy.gif"  />
 </div>
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ###

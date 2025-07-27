@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Who I Am? Well, a curious bright mind who is constantly exploring physics and unveiling the truths of the universe ✨</h3>
+<h3 align="left"> Who am I? Well, I’m a curious, bright mind who is constantly exploring physics and unveiling the truths of the universe ✨</h3>
 
 ###
 

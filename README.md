@@ -72,3 +72,9 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<!-- Shayari -->
+<h3 align="left"> “Mitti se uth kar sitare tak pohonch jaayenge,
+Toote hue dil ke sahare tak pohonch jaayenge.
+Hum parinda hain, zameen pe kab tak bandhe rahenge,
+Ek din udte udte kinare tak pohonch jaayenge." ✨</h3>
+

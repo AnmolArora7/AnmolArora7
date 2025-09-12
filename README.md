@@ -6,7 +6,8 @@
 
 ###
 
-<h3 align="left"> I'm interested in coding in C++, React and Python. I also love physics. </h3>
+<h3 align="left"> I'm interested in coding with C++, React, and Python, and I also love physics.
+ </h3>
 
 ###
 

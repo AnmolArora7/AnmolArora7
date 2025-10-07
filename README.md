@@ -9,6 +9,9 @@
 <h3 align="left"> I'm interested in coding with C++, React, and Python, and I also love physics.
  </h3>
 
+<h3 align="left"> Devoted to God and Work  🖤
+ </h3>
+
 ###
 
 <br clear="both">

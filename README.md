@@ -6,7 +6,9 @@
 
 ###
 
-<h3 align="left"> I'm interested in coding with C++, React, and Python, and I also love physics.
+<h3 align="left"> I'm interested in coding with C++, React, and Python.
+ </h3>
+<h3 align="left"> Philosphy, Psychology, Perspectives, 
  </h3>
 
 <h3 align="left"> Devoted to God and Work  🖤

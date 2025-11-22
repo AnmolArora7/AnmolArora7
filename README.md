@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+Philosphyosphyalign="center">Hey 👋What's Up?</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 <h3 align="left"> I'm interested in coding with C++, React, and Python.
  </h3>
-<h3 align="left"> Philosphy, Psychology, Perspectives, 
+<h3 align="left"> Philosophy Philosphy, Psychology, Perspectives, 
  </h3>
 
 <h3 align="left"> Devoted to God and Work  🖤

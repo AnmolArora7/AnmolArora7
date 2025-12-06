@@ -48,7 +48,7 @@
 ###
 <!-- social media -->
 <div align="center">
-  <a href="https://instagram.com/actually_anmol" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/4nmxl.1" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
   <a href="https://discord.com/users/anmolarora7" target="_blank" rel="noopener noreferrer">
@@ -83,9 +83,4 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<!-- Shayari -->
-<!-- <h4 align="left"> “Mitti se uth kar sitare tak pohonch jaayenge,
-Toote hue dil ke sahare tak pohonch jaayenge.
-Hum parinda hain, zameen pe kab tak bandhe rahenge,
-Ek din udte udte kinare tak pohonch jaayenge." ✨</h4>
--->
+
